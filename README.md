@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi! I'm me.
+
+I do weird stuff here.
+I also have a [sourcehut account](https://git.sr.ht/~flippette) which I'm usually more active on.

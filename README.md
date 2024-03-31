@@ -1,1 +1,1 @@
-eternally learning
+not good very bad

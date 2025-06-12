@@ -1,23 +1,5 @@
 not good very bad
 
-grab my PGP key from <https://keyserver.ubuntu.com>, or this ASCII-armored key:
+grab my PGP key from [here](https://keys.openpgp.org/search?q=me%40flippo.cc).
 
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
-
-mDMEZ9oDXRYJKwYBBAHaRw8BAQdAe4pyc3OckHAKEGiHPKTaIV9dTpVxGv/7N75y
-RinC3Cy0G0xlIFF1YW5nIERhdCA8bWVAZmxpcHBvLmNjPoiTBBMWCgA7FiEERs98
-FTUJ1RQ6JHjbjMAo9uETSWYFAmfaA10CGwMFCwkIBwICIgIGFQoJCAsCBBYCAwEC
-HgcCF4AACgkQjMAo9uETSWbddAD/SV2I2bfY9KmD/wMu1xQ8kyffXV0fd65oqEnS
-lBfqUj8BAK+UfN6fYQSW7eQSnGGdBRCpU17BelpZuj3LinI4EWcCuDgEZ9oDXRIK
-KwYBBAGXVQEFAQEHQH1qgUukdqqLvGziVHO4UHwEuxC/UJ2cTr42ZpVUKj8JAwEI
-B4h4BBgWCgAgFiEERs98FTUJ1RQ6JHjbjMAo9uETSWYFAmfaA10CGwwACgkQjMAo
-9uETSWbqTgD9F/7BqTQ2mHOeHf8GoOhYFDrIiRodROWES64bNevcIeIA/3afZ1cC
-etqkLu7UKDL1dDrmfxLTds0xyTqUHr0OMYAPuDMEZ9oDpxYJKwYBBAHaRw8BAQdA
-0cL3m2N+F5nlcSFvpNZ1VhZwSlMrfQFj9rIEzZr7+dmIeAQYFgoAIBYhBEbPfBU1
-CdUUOiR424zAKPbhE0lmBQJn2gOnAhsgAAoJEIzAKPbhE0lmgqkA/1T6DuFg/f5C
-C1vhUpAD/FWuQALG1ty8J+2iegECDtdlAQDoiNqRkoCYBiHNHcsCnpdRua7ySVGC
-Uecrun++iPjJCQ==
-=pvXY
------END PGP PUBLIC KEY BLOCK-----
-```
+note: the key changed on 13 Jun 2025.
